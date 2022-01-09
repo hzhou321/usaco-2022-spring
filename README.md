@@ -51,3 +51,38 @@ int solve(){
     ...
 }
 ```
+
+Bronze bullets:
+* Enumeration
+* Language basics
+    * hello world
+    * if / else if / else
+    * for-loops -- only canonical
+         for (int i=i0; i<i_end; i++)
+         for i=0:N
+    * while-loop -- for everything else
+    ```
+        [initialize]
+        while (cond) {
+             body
+             [continuation]
+        }
+    ```    
+   
+* Styles
+      * Code in blocks 
+      * each block contains finite number of lines that fit in page -- avoid mental juggling
+      * each line is a single unit of logic comprehension --- don't do --> a; b; c; 
+      * always use braces, don't --
+      ```
+         if (a)
+             b
+      ```
+      Always
+      ```
+      if (a) {
+         b;
+      }
+      ```
+   
+         
