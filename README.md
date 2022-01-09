@@ -16,6 +16,7 @@ prob3_silver.cpp
 prob1_bronze.cpp
 ```
 // Name: Hui Zhou
+// xxx min
 // Tests: 1/10 5, 6, 7 Timeout, 2,3,4 fail
 // Feedback: anything goes. but the goal is a self reflection
 
