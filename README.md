@@ -1,5 +1,7 @@
 Han Academy USACO 2020 - Spring
 
+15 classes: 1/9, 1/16, 1/23, 2/6, 2/13, 2/20, 2/27, 3/6, 3/13, 3/20, 4/3, 4/10, 4/17, 4/24, 5/1
+
 Class notes
 
 Homework
