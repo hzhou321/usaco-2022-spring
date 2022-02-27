@@ -4,6 +4,9 @@ Han Academy USACO 2020 - Spring
 
 Class notes
 
+*NOTE*: from week 7 and onward, we will use a single repository for all homeworks.
+Every week, upload your code into the correct folder (*not top folder*), e.g. 2001 for year 2020 Feburary.
+
 Homework
 
 ```
